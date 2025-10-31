@@ -1,4 +1,0 @@
-trainner
-jgdb
-roll no 73
-hlo
